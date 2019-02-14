@@ -4,5 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/bootleg/sepolicy/qcom/common \
-    device/bootleg/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
+    device/bootleg/sepolicy/qcom/vendor
